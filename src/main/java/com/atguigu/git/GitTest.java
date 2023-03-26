@@ -13,5 +13,6 @@ public class GitTest {
         System.out.println("hello git4");
         System.out.println("zqt 最强没得说");
         System.out.println("jk");
+        System.out.println("gitee test");
     }
 }
